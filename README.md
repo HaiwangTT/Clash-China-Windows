@@ -1,7 +1,7 @@
 # Clash for Windows Chinese<img src="https://github.com/ender-zhao/Clash-for-Windows_Chinese/blob/main/image/image_clash.png?raw=true" width="30" height="30">
-### Clash 汉化版
-
-**提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序**
+### Clash 汉化版 
+***Clash 中文版
+**提供Clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序**
 
 效果图
 
@@ -89,27 +89,11 @@
 
 *** 
 
-#### 赞助商的广告
 
-推荐使用OK加速器  优惠码:clash
-
-https://zhuri.cc/auth/register?code=6666
-
-购买小火箭、圈X、Google voice👉[神马杂货铺](https://googlevoice.top/)
-
-***
 ### 快速导航
 [前往汉化下载界面](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)
 
 [前往下载机场引流推广版 (去广告和更新检测)](https://github.com/ender-zhao/CFW-custom-made)
 
 [前往原版Clash下载界面](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-
-#### 能够解压7z格式的软件
-
-[NanaZip](https://github.com/M2Team/NanaZip) *(兼容Windows11)*
-
-[7-Zip](https://www.7-zip.org/)
-
-[WinRAR](https://www.rarlab.com/)
 
